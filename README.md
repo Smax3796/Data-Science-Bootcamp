@@ -17,4 +17,5 @@ I learned a lot of stuff related to data science skills. This bootcamp has 10 sp
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on linkedin https://www.linkedin.com/
   
